@@ -1,7 +1,7 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
 import lartana from '../assets/lartana.PNG'
-import G from '../assets/G.png';
+import L from '../assets/L.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
 import gallery03 from '../assets/gallery03.png';
@@ -24,7 +24,7 @@ import quote from '../assets/quote.png';
 export default {
   bg,
   chef,
-  G,
+  L,
   gallery01,
   gallery02,
   gallery03,
